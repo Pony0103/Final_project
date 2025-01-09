@@ -1,4 +1,4 @@
-# 學生資料管理系統
+# 學生管理系統
 
 這是一個基於 React 和 MongoDB 的學生資料管理系統，實現完整的 CRUD（Create, Read, Update, Delete）基本功能。
 
